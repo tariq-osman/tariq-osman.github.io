@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " "
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Tariq Osman"
 description              : &description "Instructor in Mathematics"

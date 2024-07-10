@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am an Instructor in Mathematics at Brandeis University. Previously, I was a Ph.D. at Queen's University, under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I am interested in problems at the intersection of Dynamical Systems, Number Theory, and Probability. 
+I am an Instructor in Mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/). Previously, I completed my Ph.D. in 2022 at [Queen's University](https://www.queensu.ca/mathstat/), under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I am interested in problems at the intersection of Dynamical Systems, Number Theory, and Probability.  
 

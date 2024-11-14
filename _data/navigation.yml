@@ -13,8 +13,11 @@ main:
   - title: "CV"
     url: /files/t-osman-cv-nov-24.pdf
 
-  - title: "Teaching"
-    url: /teaching/   
+  - title: "NEDNT Seminar"
+    url:  https://nednt.wescreates.wesleyan.edu/
+
+  - title: "Everytopic Seminar"
+    url: https://sites.google.com/brandeis.edu/everytopic-seminar/home
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/

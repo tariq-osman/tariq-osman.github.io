@@ -13,7 +13,7 @@ I am currently an Instructor in Mathematics at [Brandeis University](https://www
 
 ## Papers and Preprints
 
--[**An Effective Slope Gap Distribution for Lattice Surfaces**]()with Joshua Southerland, and Jane Wang. (preprint) 
+-[**An Effective Slope Gap Distribution for Lattice Surfaces**](https://arxiv.org/pdf/2409.15660) with Joshua Southerland, and Jane Wang. (preprint) 
 
 -[**Bounds for Smooth Theta Sums with Rational Parameters**](https://arxiv.org/pdf/2306.11119) with Francesco Cellarosi. (to appear in *Journal of Number Theory*)
 

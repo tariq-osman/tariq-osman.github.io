@@ -3,17 +3,18 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  - title: "Papers & Preprints"
+  - title: "Arxiv"
     url: https://arxiv.org/a/osman_t_1.html
-
-  - title: "Teaching"
-    url: /teaching/    
+ 
     
   #- title: "Portfolio"
   #  url: /portfolio/
     
-  #- title: "CV"
-  #  url: /cv/
+  - title: "CV"
+    url: /files/t-osman-cv-nov-24.pdf
+
+  - title: "Teaching"
+    url: /teaching/   
     
   - title: "Guide"
     url: /markdown/

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Instructor in Mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/). I completed my Ph.D. in 2022 at [Queen's University](https://www.queensu.ca/mathstat/), under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I enjoy studying problems at the interface of probability, number theory and geometry. I especially enjoy when the problem can be recast as a problem in homogeneous dynamics. 
+I am currently an Instructor in Mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/). I completed my Ph.D. in 2022 at [Queen's University](https://www.queensu.ca/mathstat/), under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I enjoy studying problems at the interface of probability, and analytic number theory, typically with the aid of methods from homogeneous dynamics. Recently, I have also become interested in studying probabilistic questions in the realm of translation surfaces.
 
 
 ## Papers and Preprints

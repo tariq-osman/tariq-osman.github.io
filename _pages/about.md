@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: 
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,6 +10,9 @@ redirect_from:
 
 I am currently an Instructor in Mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/). I completed my Ph.D. in 2022 at [Queen's University](https://www.queensu.ca/mathstat/), under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I enjoy studying problems at the interface of probability, and analytic number theory, typically with the aid of methods from homogeneous dynamics. Recently, I have also become interested in studying probabilistic questions in the realm of translation surfaces.
 
+I also have many interests outside of math. For instance, I enjoy reading (especially science fiction), playing the violin, playing the piano, biking, hiking, and running.
+
+This academic year I am an organizer for the [New England Dynamics and Number Theory Seminar](https://nednt.wescreates.wesleyan.edu/), and the [Brandeis Everytopic Seminar](https://sites.google.com/brandeis.edu/everytopic-seminar/home). If you are interested in giving a talk in either of those, please feel free to send me an email.
 
 ## Papers and Preprints
 

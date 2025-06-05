@@ -8,15 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Instructor in Mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/). I completed my Ph.D. in 2022 at [Queen's University](https://www.queensu.ca/mathstat/), under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I enjoy studying problems at the interface of probability, and analytic number theory, typically with the aid of methods from homogeneous dynamics. Recently, I have also become interested in studying probabilistic questions in the realm of translation surfaces.
-
-I also have many interests outside of math. For instance, I enjoy reading (especially science fiction), playing the violin, playing the piano, biking, hiking, and running.
+I am currently an Instructor in Mathematics at [Brandeis University](https://www.brandeis.edu/mathematics/). I completed my Ph.D. in 2022 at [Queen's University](https://www.queensu.ca/mathstat/), under the supervision of [Francesco Cellarosi](https://sites.google.com/view/fcellaro/home). I enjoy studying problems at the interface of probability, and analytic number theory, typically with the aid of methods from homogeneous dynamics. Recently, I have also become interested in studying probabilistic questions in the world of translation surfaces.
 
 This academic year I am an organizer for the [New England Dynamics and Number Theory Seminar](https://nednt.wescreates.wesleyan.edu/), and the [Brandeis Everytopic Seminar](https://sites.google.com/brandeis.edu/everytopic-seminar/home). If you are interested in giving a talk in either of those, please feel free to send me an email.
 
 ## Papers and Preprints
 
--[**An Effective Slope Gap Distribution for Lattice Surfaces**](https://arxiv.org/pdf/2409.15660) with Joshua Southerland, and Jane Wang. (preprint) 
+-[**An Effective Slope Gap Distribution for Lattice Surfaces**](https://arxiv.org/pdf/2409.15660) with Joshua Southerland, and Jane Wang. (to appear in Discrete and Continuous Dynamical Systems) 
 
 -[**Bounds for Smooth Theta Sums with Rational Parameters**](https://arxiv.org/pdf/2306.11119) with Francesco Cellarosi. (to appear in *Journal of Number Theory*)
 
